@@ -1,0 +1,3 @@
+-------- Execute JAXWS-RESTful Jersey ---------
+http://localhost:4444/WebService_RESTful_Jersey/
+http://localhost:8080/WebService_RESTful_Jersey/

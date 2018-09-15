@@ -1,0 +1,2 @@
+-------- Execute JAXWS-RESTful Jersey fileupload ---------
+http://localhost:8080/WebService_RESTful_fileupload/

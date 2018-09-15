@@ -1,0 +1,2 @@
+-------- Execute JAXWS-RESTful Jersey filedownload image ---------
+http://localhost:8080/WebService_RESTful_filedownload_image/
